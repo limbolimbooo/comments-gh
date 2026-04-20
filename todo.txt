@@ -1,0 +1,1 @@
+first STEP: create a function that revieves comments from students [].
